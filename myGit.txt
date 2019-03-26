@@ -1,0 +1,4 @@
+$ git add <File>    将文件添加 修改 删除等操作  添加到暂存区
+
+
+$ git commit -m "a text discribe the addAct" 提交暂存区的改动到master分支
